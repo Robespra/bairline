@@ -6,8 +6,8 @@
         "buildPath": "bairline/",
         "files": [
           {
-            "destination": "styles.css",
-            "format": "css/variables"
+            "destination": "tokens.json",
+            "format": "json/nested"
           }
         ]
       },
